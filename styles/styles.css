@@ -1,0 +1,27 @@
+body{
+
+    background-color: #D7E7F8;
+}
+
+.navbar{
+
+    background-color: #427FAB !important;
+
+}
+
+.nav-link{
+
+    color: #D7E7F8 !important;
+}
+
+.divrow{
+    height: 200px;
+}
+
+main{
+    margin: 15px;
+}
+
+.card{
+    height: 600px;
+}
